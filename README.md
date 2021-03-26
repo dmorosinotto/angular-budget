@@ -1,5 +1,6 @@
 # Budget application
 
+Intro article [https://dev-academy.com/angular-user-login-and-registration-guide-cookies-and-jwt/](https://dev-academy.com/angular-user-login-and-registration-guide-cookies-and-jwt)
 This is the final project in the training program [Angular Enterprise Security Academy](https://angular-academy.com/security). It represents a real-life use case of personal money tracker. There are five main feature modules: *Auth*, *Dashboard*, *Expenses*, *Settings* and *Admin* with many security measures implemented described below. The project implements [role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) (RBAC), giving different users different permissions. This is the frontend part to the accompanying [backend api](https://github.com/bartosz-io/budget-node) in Node.js with TypeScript. A deployed version (with mocked in-memory API) is available under https://budget.angular-academy.com.
 
 ## Installation
